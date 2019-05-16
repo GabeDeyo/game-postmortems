@@ -2,7 +2,7 @@
 
 + **Development Time:** 6 Days
 + **Development Platform:** Unity
-+ **Inspiration: [Space Frontier](https://play.google.com/store/apps/details?id=com.ketchapp.spacefrontier)
++ **Inspiration:** [Space Frontier](https://play.google.com/store/apps/details?id=com.ketchapp.spacefrontier)
 
 ### Initial Goals
 + ***Animation/Spline Path*** - I wanted to have a baseball swing based on both input timing and location. I wanted to create a custom animation or spline path after or during user input. The bat would begin at the start of the user input location and then the swing through following the path of their input.
